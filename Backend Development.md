@@ -7,3 +7,7 @@
 * achievements (etc)
 
 Login - what kind of?
+
+Problems
+* **circular import**
+* 
