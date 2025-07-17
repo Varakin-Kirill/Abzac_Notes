@@ -11,3 +11,7 @@ Login - what kind of?
 Problems
 * **circular import**
 * 
+
+
+По задачам:
+ Книги по жанрам + теги
