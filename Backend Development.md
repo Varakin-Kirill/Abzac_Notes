@@ -15,6 +15,10 @@ Problems
 Ссылка на пидарасов у которых пиздим книги
 https://bookscloud.ru/
 
+Телеграм авторизация
+https://habr.com/ru/articles/801121/
+https://habr.com/ru/articles/889270/
+
 
 По задачам:
 Книги по жанрам + теги
